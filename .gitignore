@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Directories created from set up
+incoming/
+known/
+logs/
+output/
